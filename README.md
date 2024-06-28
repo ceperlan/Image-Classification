@@ -1,7 +1,7 @@
 **Proyek Klasifikasi Gambar pada Dicoding**
 ---
 
-A. Berikut kriteria submission yang harus Anda penuhi:
+**A. Berikut kriteria submission yang harus Anda penuhi:**
 
 1. Dataset yang dipakai haruslah dataset berikut : rockpaperscissors, atau gunakan link ini pada wget command: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip.
 Dataset harus dibagi menjadi train set dan validation set.
@@ -16,7 +16,7 @@ Dataset harus dibagi menjadi train set dan validation set.
 202004302318257ec23b834046174a7d426680e488905e.png
 10. Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
 
-B. Penilaian
+**B. Penilaian**
 
 Submission Anda akan dinilai oleh reviewer dengan penilaian bintang berskala 1-5 berdasarkan dari parameter yang ada.
 Anda dapat menerapkan beberapa saran untuk mendapatkan nilai tinggi, berikut sarannya:
